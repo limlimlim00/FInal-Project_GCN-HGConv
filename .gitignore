@@ -1,0 +1,6 @@
+# Ignore Mac OS system files
+.DS_Store
+**/.DS_Store
+
+# only PDF
+FinalProject_GCN_vs_HGConv.pptx
