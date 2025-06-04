@@ -6,15 +6,17 @@ The goal of this project is to systematically compare **Graph Convolutional Netw
 
 ## 📁 Repository Structure
 
+```
 .
-├── Baseline/
-│ ├── gcn_hgconv_clean.ipynb
+├── Performance/
+│ ├── gcn_vs_hgconv_accuracy_analysis.ipynb
 │ └── Figures/ # test accuracy plots (Cora, Citeseer, Pubmed, BAShapes)
-├── Robustness/
-│ ├── robustness_test.ipynb
+├── Perturbation/
+│ ├── robustness_generalization_test.ipynb
 │ └── Figures/ # test accuracy under noise (Gaussian, edge, label)
 ├── FinalProject_GCN_vs_HGConv.pdf
 └── README.md
+```
 
 Each folder contains:
 
