@@ -1,6 +1,6 @@
 # Comparative Study of GCN and HGConv: Structure, Features, and Noise
 
-This repository contains code and results for the project **"Comparative Study of GCN and HGConv: Structure, Features, and Noise"**, conducted as part of an **Artificial Intelligence** course final project at Seoul National University.
+This repository contains code and results for the project **"Comparative Study of GCN and HGConv: Structure, Features, and Noise"**, conducted as part of the **Artificial Intelligence** course final project at Seoul National University.
 
 The goal of this project is to systematically compare **Graph Convolutional Network (GCN)** and **Hypergraph Convolution (HGConv)** models under various conditions, focusing on structural generalization and robustness to input perturbations.
 
